@@ -1,3 +1,3 @@
 # demofile
 
-descripion example.
+descripion example:
